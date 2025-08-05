@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
 
-基于逆向分析的深圳志愿项目爬取与解密工具 🛠️  
+基于逆向分析的志愿深圳志愿项目爬取与解密工具 🛠️  
 A tool to crawl and decrypt Shenzhen volunteer project data using AES-CBC.
 
 ---
